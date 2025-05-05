@@ -40,15 +40,10 @@ Este projeto é um conversor de moedas desenvolvido em Java com interação via 
 
 Este projeto utiliza a biblioteca [Gson](https://github.com/google/gson) para manipulação de JSON. O `.jar` foi adicionado manualmente ao projeto.
 
-- Arquivo: `gson-2.10.jar`  
-- Local: incluído na pasta `libs/`
+- Arquivo: `gson-2.13.1.jar`  
+- Caminho: File -> Project Structure -> Modules -> Dependencies -> Add.
 
 > 🔧 Certifique-se de adicionar o `.jar` do Gson ao classpath na hora de compilar e executar:
-
-### Compilação
-
-```bash
-javac -cp ".;libs/gson-2.10.jar" src/*.java
 
 
 🌐 APIs suportadas
