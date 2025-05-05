@@ -1,0 +1,5 @@
+2025-05-04T18:45:02.551264 - ERRO: Cannot invoke "com.google.gson.JsonObject.get(String)" because the return value of "com.google.gson.JsonObject.getAsJsonObject(String)" is null
+2025-05-04T18:54:39.301791800 - ERRO: Server returned HTTP response code: 401 for URL: https://api.apilayer.com/exchangerates_data/latest?base=USD&symbols=BRL&apikey=76113257645ed8aac3c905f5
+2025-05-04T18:55:01.054132500 - ERRO: Server returned HTTP response code: 401 for URL: https://api.apilayer.com/exchangerates_data/latest?base=EUR&symbols=BRL&apikey=76113257645ed8aac3c905f5
+2025-05-04T18:56:26.663661800 - ERRO: https://v6.exchangerate-api.com/v6/USD&symbols=BRL&apikey=76113257645ed8aac3c905f5
+2025-05-04T18:58:41.137995500 - ERRO: Cannot invoke "com.google.gson.JsonObject.get(String)" because the return value of "com.google.gson.JsonObject.getAsJsonObject(String)" is null
