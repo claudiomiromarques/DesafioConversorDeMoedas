@@ -47,7 +47,7 @@ ConversorMoedas/
 
 ## 📦 Dependência
 
-Este projeto utiliza a biblioteca [Gson](https://github.com/google/gson) para manipulação de JSON. O `.jar` foi adicionado manualmente ao projeto.
+Este projeto utiliza a biblioteca [Gson](https://github.com/google/gson) para manipulação de JSON. O `.jar` foi adicionado manualmente ao projeto, dentro da pasta 
 
 - Arquivo: `gson-2.10.jar`  
 - Local: incluído na pasta `libs/`
@@ -67,4 +67,4 @@ AwesomeAPI – gratuita e sem autenticação
 
 ✍️ Autor
 Desenvolvido por Claudiomiro Marques
-GitHub: https://github.com/cmarques
+
