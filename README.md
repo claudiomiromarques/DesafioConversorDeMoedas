@@ -43,13 +43,7 @@ Este projeto utiliza a biblioteca [Gson](https://github.com/google/gson) para ma
 - Arquivo: `gson-2.13.1.jar`  
 - Caminho: File -> Project Structure -> Modules -> Dependencies -> Add.
 
-> 🔧 Certifique-se de adicionar o `.jar` do Gson ao classpath na hora de compilar e executar:
-
 
 🌐 APIs suportadas
 ExchangeRate API – requer chave (gratuita)
 
-AwesomeAPI – gratuita e sem autenticação
-
-✍️ Autor
-Desenvolvido por Claudiomiro Marques
