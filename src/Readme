@@ -50,21 +50,8 @@ ConversorMoedas/
 Este projeto utiliza a biblioteca [Gson](https://github.com/google/gson) para manipulação de JSON. O `.jar` foi adicionado manualmente ao projeto, dentro da pasta 
 
 - Arquivo: `gson-2.10.jar`  
-- Local: incluído na pasta `libs/`
-
-> 🔧 Certifique-se de adicionar o `.jar` do Gson ao classpath na hora de compilar e executar:
-
-### Compilação
-
-```bash
-javac -cp ".;libs/gson-2.10.jar" src/*.java
-
 
 🌐 APIs suportadas
 ExchangeRate API – requer chave (gratuita)
 
-AwesomeAPI – gratuita e sem autenticação
-
-✍️ Autor
-Desenvolvido por Claudiomiro Marques
 
