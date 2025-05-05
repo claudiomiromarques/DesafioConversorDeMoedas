@@ -23,17 +23,8 @@ Este projeto é um conversor de moedas desenvolvido em Java com interação via 
 
 ## 🏗 Estrutura do Projeto
 
-ConversorMoedas/
-├── src/
-│ ├── Principal.java
-│ ├── RequestAPI.java
-│ ├── GerarArquivoConsulta.java
-│ └── GerarArquivoLog.java
-├── libs/
-│ └── gson-2.10.jar
-├── conversoes.txt
-├── log.txt
-└── README.md
+![image](https://github.com/user-attachments/assets/56cea67f-44b0-4cc6-be2d-7d4d1f376596)
+
 
 
 ---
