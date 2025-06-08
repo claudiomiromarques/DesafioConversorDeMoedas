@@ -14,7 +14,7 @@ public class RequestApi {
     // Método que retorna a taxa de câmbio entre duas moedas (origem e destino)
     public double obterTaxaCambio(String moedaOrigem, String moedaDestino) throws Exception {
         // Sua chave de API para autenticação no serviço da ExchangeRate-API
-        String apiKey = "76113257645ed8aac3c905f5";
+        String apiKey = "76113257645ed8aac3c905f508";
 
         // Monta a URL para obter as taxas de câmbio a partir da moeda de origem
         String urlStr = "https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/" + moedaOrigem;
